@@ -107,21 +107,14 @@ const Slide2 = () => {
                 Çamaşır Sodası
               </h2>
               <p className="text-xl text-gray-300 mb-6">
-                Sodyum karbonat (Na₂CO₃), halk arasında çamaşır sodası olarak
-                bilinir ve güçlü bir bazik yapıya sahiptir. Özellikle
-                çamaşırların temizlenmesinde deterjanların etkisini artıran
-                çamaşır sodası, yağ ve kir çözme özellikleriyle öne çıkar.
-                Kimyasal özellikleri bakımından, suyla karıştığında bazik bir
-                çözelti oluşturur ve pH seviyesini artırarak asidik kirlere
-                karşı etkili olur. Yağ lekeleri gibi organik kirlerin çözülmesi
-                bu bazik ortamda kolaylaşır. Çamaşır sodası cilde temas
-                ettiğinde hafif tahriş yapabilir, bu nedenle eldivenle
-                kullanılmalıdır. Toplum sağlığı açısından değerlendirildiğinde,
-                çamaşır sodası, diğer güçlü temizlik maddelerine göre daha
-                güvenli bir alternatiftir. Ancak doğrudan solunduğunda veya
-                gözle temas ettiğinde tahriş edici olabilir. Çevre açısından da
-                doğada kolayca çözünebilen bir yapıya sahip olduğu için çevre
-                dostu kabul edilir.
+                Sodyum karbonat (Na₂CO₃), yaygın adıyla çamaşır sodası, güçlü
+                bir bazik maddedir. Özellikle çamaşır temizliğinde kullanılır ve
+                deterjanların etkisini artırır. Su ile karıştığında bazik
+                çözelti oluşturarak pH'ı yükseltir, bu da asidik kirleri ve
+                yağları çözmede etkilidir. Cilt tahrişine neden olabileceğinden
+                eldiven kullanılması önerilir. Diğer güçlü temizleyicilere göre
+                daha güvenli ve çevre dostudur, ancak solunduğunda veya göze
+                temas ettiğinde tahriş edici olabilir.
               </p>
             </motion.div>
             <motion.div
